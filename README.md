@@ -27,7 +27,7 @@ Created by Jacob Torres
 ## Test Instructions
 
 The test folder has all tests that are related to this application. To run the testing suite, enter "npm run test."
-<img src="./images/testingSuite.png">
+<img src="./images/testingSuite1.png">
 
 ## License
 
